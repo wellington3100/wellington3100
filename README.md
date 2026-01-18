@@ -104,3 +104,4 @@ Sitio web personal para presentar perfil profesional, proyectos y contacto.
 ## 📫 Contacto
 - GitHub: https://github.com/wellington3100
 - Linkedin: https://www.linkedin.com/in/w%C3%A9llington-%C3%A1lvarez-varela-318aba252/
+- Correo: Wellingtonaav@outlook.com
