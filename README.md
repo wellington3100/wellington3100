@@ -1,107 +1,76 @@
-#  Wellington Alvarez
+#  Wellington Álvarez
 
- Estudiante de Ingeniería en Sistemas y Desarrollo de Software  
- Desarrollador Front-End / Python Junior  
- Español nativo | Inglés avanzado  
+ **Estudiante de Ingeniería en Sistemas y Desarrollo de Software**  
+ **Software Developer | Python · HTML · CSS · Git**
 
----
-
-##  Perfil profesional
-Estudiante de ingeniería con experiencia práctica en desarrollo web y proyectos reales orientados a resolver problemas concretos.  
-Me enfoco en construir soluciones claras, funcionales y bien estructuradas, priorizando código limpio, buenas prácticas y una correcta experiencia de usuario.
-
-Busco oportunidades como **Intern / Junior Developer**, donde pueda seguir desarrollándome técnicamente y aportar valor desde el primer día.
+Soy estudiante de ingeniería enfocado en el desarrollo de software práctico. Me interesa construir soluciones funcionales, bien estructuradas y entendibles, priorizando lógica, orden y buenas prácticas. Busco una **pasantía / internship** donde pueda aplicar mis conocimientos y seguir creciendo en un entorno profesional real.
 
 ---
 
-##  Conocimientos técnicos
+##  Perfil técnico
 
-**Lenguajes**
-- HTML5
-- CSS3
-- JavaScript
-- Python
-
-**Herramientas y conceptos**
-- Git & GitHub
-- Responsive Design
-- Consumo de APIs
-- Validaciones en frontend
-- Lógica de programación
-- Estructuración y documentación de proyectos
-
----
-
-##  Experiencia laboral
-
-### Front-End Developer — Invitafy  
-*2022 · 3 meses*
-
-- Desarrollo y personalización de invitaciones digitales
-- Modificación de diseños según requerimientos específicos del cliente
-- Edición de estilos y estructura utilizando HTML y CSS
-- Comunicación directa con clientes para iteraciones y ajustes
-- Entrega de soluciones visuales funcionales y personalizadas
-
----
-
-##  Proyecto real en desarrollo
-
-### Sistema de gestión para tintorería
-*Proyecto en desarrollo – cliente real*
-
-- Diseño y desarrollo de un sistema para la gestión integral de una tintorería
-- Automatización de procesos operativos como:
-  - Registro de clientes
-  - Control de prendas y servicios
-  - Seguimiento del estado de pedidos
-- Enfoque en mejorar la organización interna, reducir errores manuales y optimizar tiempos de entrega
-- Desarrollo orientado a un entorno real con requerimientos definidos
-
-**Tecnologías:** Python  
-*(Proyecto activo / Work in Progress)*
+- **Lenguajes:** Python, HTML, CSS  
+- **Herramientas:** Git, GitHub, VS Code  
+- **Conceptos:** lógica de programación, estructuras de datos básicas, CRUD, validación de datos  
+- **Enfoque:** backend básico, automatización, proyectos funcionales
 
 ---
 
 ##  Proyectos destacados
 
-###  Formulario de contacto con EmailJS
-Formulario funcional que permite el envío de correos directamente desde el frontend, con validaciones y diseño responsive.  
-**Tecnologías:** HTML, CSS, JavaScript  
- https://github.com/wellington3100/formulario-registro
+###  Sistema de Inventario en Python  
+ https://github.com/wellington3100/inventario_python  
+Aplicación de consola desarrollada en Python para la gestión de productos.  
+Incluye registro, actualización, eliminación y visualización de inventario, con validaciones y lógica clara.
 
----
-
-###  Sistema de inventario en Python
-Aplicación de consola para la gestión básica de productos, enfocada en la lógica, estructura y organización del código.  
 **Tecnologías:** Python  
- https://github.com/wellington3100/inventario_python
+**Conceptos aplicados:** lógica de negocio, estructuras de datos, flujo de control
 
 ---
 
-###  Portafolio personal
-Sitio web personal para presentar perfil profesional, proyectos y contacto.  
-**Tecnologías:** HTML, CSS, JavaScript  
- https://github.com/wellington3100/MiPortafolio
+###  Formulario de Registro Web  
+ https://github.com/wellington3100/formulario-registro  
+Formulario web responsive que captura datos de usuario y confirma el registro exitoso.  
+Proyecto orientado a práctica frontend y presentación para portafolio.
+
+**Tecnologías:** HTML, CSS  
+**Conceptos aplicados:** formularios, validaciones básicas, diseño responsivo
 
 ---
 
-##  Idiomas
-- Español: Nativo  
-- Inglés: Avanzado (lectura técnica, documentación y comunicación escrita)
+###  Portafolio Web Personal  
+ https://github.com/wellington3100/MiPortafolio  
+Sitio web personal para mostrar proyectos y perfil profesional.
+
+**Tecnologías:** HTML, CSS  
+**Objetivo:** presencia profesional online
 
 ---
 
-##  Enfoque profesional
-- Aprendizaje continuo
-- Buenas prácticas de desarrollo
-- Código limpio y mantenible
-- Resolución de problemas reales
-- Crecimiento técnico y profesional a largo plazo
+##  Experiencia previa
+
+- **Front-End Developer (freelance / proyectos personales)**  
+  Desarrollo de interfaces web utilizando HTML y CSS, enfocado en diseño limpio y funcional.
+
+- **Invitafy (2022)**  
+  Creación de invitaciones online personalizadas.  
+  Trabajo directo con clientes, edición a medida según requerimientos y ajustes visuales usando HTML y CSS.
+
+---
+
+##  Objetivo profesional
+
+Busco una **pasantía en desarrollo de software** donde pueda:
+- Aprender de un equipo real
+- Mejorar mis habilidades técnicas
+- Aportar con compromiso, orden y ganas de crecer
 
 ---
 
 ##  Contacto
+
 - GitHub: https://github.com/wellington3100
-- Linkedin: https://www.linkedin.com/in/w%C3%A9llington-%C3%A1lvarez-varela-318aba252/
-- Correo: Wellingtonaav@outlook.com
+
+---
+
+⭐ Siempre abierto a aprender, mejorar y recibir feedback técnico.
