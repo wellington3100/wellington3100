@@ -73,4 +73,4 @@ Busco una **pasantía en desarrollo de software** donde pueda:
 
 ---
 
-⭐ Siempre abierto a aprender, mejorar y recibir feedback técnico.
+ Siempre abierto a aprender, mejorar y recibir feedback técnico.
