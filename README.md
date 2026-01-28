@@ -19,6 +19,7 @@ Soy estudiante de ingeniería enfocado en el desarrollo de software práctico. M
 ##  Proyectos destacados
 
 Sistema de Gestión para Tintorería (en desarrollo)
+
 https://github.com/wellington3100/tintoreria-management-system
 
 Aplicación de escritorio desarrollada con Microsoft Access para la gestión de órdenes y prendas en una tintorería real.
