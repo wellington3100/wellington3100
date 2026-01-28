@@ -18,13 +18,14 @@ Soy estudiante de ingeniería enfocado en el desarrollo de software práctico. M
 
 ##  Proyectos destacados
 
-###  Sistema de Inventario en Python  
- https://github.com/wellington3100/inventario_python  
-Aplicación de consola desarrollada en Python para la gestión de productos.  
-Incluye registro, actualización, eliminación y visualización de inventario, con validaciones y lógica clara.
+Sistema de Gestión para Tintorería (en desarrollo)
+https://github.com/wellington3100/tintoreria-management-system
 
-**Tecnologías:** Python  
-**Conceptos aplicados:** lógica de negocio, estructuras de datos, flujo de control
+Aplicación de escritorio desarrollada con Microsoft Access para la gestión de órdenes y prendas en una tintorería real.
+Incluye registro de clientes, órdenes y prendas, control de estados y persistencia de datos mediante formularios y subformularios.
+
+Tecnologías: Microsoft Access, SQL, Git, GitHub
+Conceptos aplicados: modelado de datos, CRUD, relaciones uno-a-muchos, formularios, control de estados, persistencia de datos
 
 ---
 
