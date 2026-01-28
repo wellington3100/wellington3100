@@ -21,7 +21,6 @@ Soy estudiante de ingeniería enfocado en el desarrollo de software práctico. M
 Sistema de Gestión para Tintorería (en desarrollo)
 
 https://github.com/wellington3100/tintoreria-management-system
-
 Aplicación de escritorio desarrollada con Microsoft Access para la gestión de órdenes y prendas en una tintorería real.
 Incluye registro de clientes, órdenes y prendas, control de estados y persistencia de datos mediante formularios y subformularios.
 
