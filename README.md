@@ -1,18 +1,22 @@
 #  Wellington Álvarez
 
  **Estudiante de Ingeniería en Sistemas y Desarrollo de Software**  
- **Software Developer | Python · HTML · CSS · Git**
+ **Aspirante a Data Engineer | Python · SQL · Bases de Datos · Git
 
-Soy estudiante de ingeniería enfocado en el desarrollo de software práctico. Me interesa construir soluciones funcionales, bien estructuradas y entendibles, priorizando lógica, orden y buenas prácticas. Busco una **pasantía / internship** donde pueda aplicar mis conocimientos y seguir creciendo en un entorno profesional real.
+Soy estudiante de ingeniería enfocado en el manejo, estructuración y gestión de datos. Me interesa construir sistemas bien organizados, con bases de datos sólidas, lógica clara y estructuras escalables.
+Actualmente estoy orientando mi formación hacia el área de Data Engineering, con énfasis en modelado de datos, almacenamiento, automatización y desarrollo backend orientado a datos.
+
+Busco una pasantía / internship donde pueda trabajar con datos reales, bases de datos y sistemas que requieran organización, análisis y persistencia de información en entornos profesionales.
 
 ---
 
 ##  Perfil técnico
 
-- **Lenguajes:** Python, HTML, CSS  
-- **Herramientas:** Git, GitHub, VS Code  
-- **Conceptos:** lógica de programación, estructuras de datos básicas, CRUD, validación de datos  
-- **Enfoque:** backend básico, automatización, proyectos funcionales
+- **Lenguajes:** Python, SQL (básico), HTML, CSS  
+- **Herramientas:** Git, GitHub, VS Code, Microsoft Access
+- **Bases de datos:** Modelado relacional, CRUD, relaciones uno-a-muchos
+- **Conceptos:** estructuras de datos, validación de datos, lógica de programación, persistencia de datos 
+- **Enfoque:** Data-oriented backend, gestión de datos, automatización y sistemas basados en bases de datos
 
 ---
 
@@ -21,18 +25,24 @@ Soy estudiante de ingeniería enfocado en el desarrollo de software práctico. M
 Sistema de Gestión para Tintorería (en desarrollo)
 
 https://github.com/wellington3100/tintoreria-management-system
-Aplicación de escritorio desarrollada con Microsoft Access para la gestión de órdenes y prendas en una tintorería real.
-Incluye registro de clientes, órdenes y prendas, control de estados y persistencia de datos mediante formularios y subformularios.
+Aplicación orientada a la gestión de datos para un negocio real, desarrollada con enfoque en organización, almacenamiento y control de información.
+Permite administrar clientes, órdenes y prendas mediante un sistema estructurado con base de datos relacional.
 
 Tecnologías: Microsoft Access, SQL, Git, GitHub
 Conceptos aplicados: modelado de datos, CRUD, relaciones uno-a-muchos, formularios, control de estados, persistencia de datos
 
+### Conceptos aplicados:
+- Modelado de datos
+- Relaciones uno-a-muchos
+- CRUD completo
+- Formularios y subformularios
+- Persistencia y organización de datos
+- Gestión de estados y registros
 ---
 
 ###  Formulario de Registro Web  
  https://github.com/wellington3100/formulario-registro  
-Formulario web responsive que captura datos de usuario y confirma el registro exitoso.  
-Proyecto orientado a práctica frontend y presentación para portafolio.
+Formulario web orientado a la captura y validación de datos de usuario, enfocado en la correcta estructuración y manejo de información.
 
 **Tecnologías:** HTML, CSS  
 **Conceptos aplicados:** formularios, validaciones básicas, diseño responsivo
@@ -61,10 +71,13 @@ Sitio web personal para mostrar proyectos y perfil profesional.
 
 ##  Objetivo profesional
 
-Busco una **pasantía en desarrollo de software** donde pueda:
-- Aprender de un equipo real
-- Mejorar mis habilidades técnicas
-- Aportar con compromiso, orden y ganas de crecer
+Mi objetivo es especializarme como Data Engineer, enfocándome en:
+- Bases de datos y modelado de datos
+- Procesamiento y organización de información
+- Automatización con Python
+- Sistemas backend orientados a datos
+
+Busco una oportunidad donde pueda crecer técnicamente trabajando con datos reales, aprender de entornos profesionales y fortalecer mis bases en ingeniería de datos.
 
 ---
 
@@ -76,4 +89,4 @@ Busco una **pasantía en desarrollo de software** donde pueda:
 
 ---
 
- Siempre abierto a aprender, mejorar y recibir feedback técnico.
+ Siempre enfocado en aprender, mejorar y desarrollar bases técnicas sólidas en el área de datos y bases de datos.
