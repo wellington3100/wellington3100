@@ -1,7 +1,7 @@
 #  Wellington Álvarez
 
- ** Estudiante de Ingeniería en Sistemas y Desarrollo de Software**  
- ** Aspirante a Data Engineer | Python · SQL · Bases de Datos · Git
+ ** Estudiante de Ingeniería en Sistemas y Desarrollo de Software **  
+ ** Aspirante a Data Engineer | Python · SQL · Bases de Datos · Git **
 
 Soy estudiante de ingeniería enfocado en el manejo, estructuración y gestión de datos. Me interesa construir sistemas bien organizados, con bases de datos sólidas, lógica clara y estructuras escalables.
 Actualmente estoy orientando mi formación hacia el área de Data Engineering, con énfasis en modelado de datos, almacenamiento, automatización y desarrollo backend orientado a datos.
