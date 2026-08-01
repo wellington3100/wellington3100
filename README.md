@@ -207,9 +207,6 @@ Areas of interest include:
 
 #  Contact
 
-GitHub:
-https://github.com/wellington3100
-
 LinkedIn:
 https://www.linkedin.com/in/w%C3%A9llington-%C3%A1lvarez-varela-318aba252/
 
