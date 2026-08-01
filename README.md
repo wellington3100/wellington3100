@@ -1,92 +1,221 @@
-#  Wellington Álvarez
+# Wellington Álvarez
 
- **Estudiante de Ingeniería en Sistemas y Desarrollo de Software**  
- **Aspirante a Data Engineer | Python · SQL · Bases de Datos · Git**
+**Software Engineering Student**  
+**Software Developer | Aspiring Data Engineer**
 
-Soy estudiante de ingeniería enfocado en el manejo, estructuración y gestión de datos. Me interesa construir sistemas bien organizados, con bases de datos sólidas, lógica clara y estructuras escalables.
-Actualmente estoy orientando mi formación hacia el área de Data Engineering, con énfasis en modelado de datos, almacenamiento, automatización y desarrollo backend orientado a datos.
+I'm a Software Engineering student passionate about backend development, databases, and data-driven systems. I enjoy designing scalable applications, building robust database solutions, and developing software that efficiently manages and processes information.
 
-Busco una pasantía / internship donde pueda trabajar con datos reales, bases de datos y sistemas que requieran organización, análisis y persistencia de información en entornos profesionales.
+During my professional internship at the **Auditoría Superior del Estado de Coahuila (ASEC)**, I participated in the development of an internal Human Resources Management System using **ASP.NET Core MVC**, **C#**, **SQL Server**, and **Dapper**, gaining hands-on experience with enterprise software development.
 
----
-
-##  Perfil técnico
-
-- **Lenguajes:** Python, SQL (básico), HTML, CSS  
-- **Herramientas:** Git, GitHub, VS Code, Microsoft Access
-- **Bases de datos:** Modelado relacional, CRUD, relaciones uno-a-muchos
-- **Conceptos:** estructuras de datos, validación de datos, lógica de programación, persistencia de datos 
-- **Enfoque:** Data-oriented backend, gestión de datos, automatización y sistemas basados en bases de datos
+My long-term goal is to specialize in **Data Engineering**, combining software development with database architecture, automation, and large-scale data processing.
 
 ---
 
-##  Proyectos destacados
+#  Professional Experience
 
-Sistema de Gestión para Tintorería (en desarrollo)
+## Software Development Intern
+**Auditoría Superior del Estado de Coahuila (ASEC)**
 
-https://github.com/wellington3100/tintoreria-management-system
-Aplicación orientada a la gestión de datos para un negocio real, desarrollada con enfoque en organización, almacenamiento y control de información.
-Permite administrar clientes, órdenes y prendas mediante un sistema estructurado con base de datos relacional.
+**March 2026 – August 2026**
 
-Tecnologías: Microsoft Access, SQL, Git, GitHub
-Conceptos aplicados: modelado de datos, CRUD, relaciones uno-a-muchos, formularios, control de estados, persistencia de datos
+Participated in the development and maintenance of an internal Human Resources Management System built with **ASP.NET Core MVC** and **SQL Server**, following a layered architecture composed of Domain, Application, and Web projects.
 
-### Conceptos aplicados:
-- Modelado de datos
-- Relaciones uno-a-muchos
-- CRUD completo
-- Formularios y subformularios
-- Persistencia y organización de datos
-- Gestión de estados y registros
----
+### Technologies
 
-###  Formulario de Registro Web  
- https://github.com/wellington3100/formulario-registro  
-Formulario web orientado a la captura y validación de datos de usuario, enfocado en la correcta estructuración y manejo de información.
+- C#
+- ASP.NET Core MVC (.NET 8)
+- SQL Server 2016
+- Dapper
+- Bootstrap 5
+- JavaScript
+- HTML
+- CSS
+- Git
+- GitHub
 
-**Tecnologías:** HTML, CSS  
-**Conceptos aplicados:** formularios, validaciones básicas, diseño responsivo
+### Main Contributions
 
----
-
-###  Portafolio Web Personal  
- https://github.com/wellington3100/MiPortafolio  
-Sitio web personal para mostrar proyectos y perfil profesional.
-
-**Tecnologías:** HTML, CSS  
-**Objetivo:** presencia profesional online
-
----
-
-##  Experiencia previa
-
-- **Front-End Developer (freelance / proyectos personales)**  
-  Desarrollo de interfaces web utilizando HTML y CSS, enfocado en diseño limpio y funcional.
-
-- **Invitafy (2022)**  
-  Creación de invitaciones online personalizadas.  
-  Trabajo directo con clientes, edición a medida según requerimientos y ajustes visuales usando HTML y CSS.
+- Developed employee and intern registration modules.
+- Implemented business validations for employee records.
+- Built personnel management with filtering, editing, and employee termination workflows.
+- Developed an incident management module with business rules and date validations.
+- Implemented an interactive holiday calendar.
+- Developed an attendance registration module connected to SQL Server views.
+- Integrated SQL Server Stored Procedures using the Repository Pattern.
+- Implemented PDF document generation using QuestPDF.
+- Created complete user documentation for system users.
+- Participated in debugging, UI improvements, and maintenance across multiple modules.
 
 ---
 
-##  Objetivo profesional
+#  Technical Skills
 
-Mi objetivo es especializarme como Data Engineer, enfocándome en:
-- Bases de datos y modelado de datos
-- Procesamiento y organización de información
-- Automatización con Python
-- Sistemas backend orientados a datos
+## Languages
 
-Busco una oportunidad donde pueda crecer técnicamente trabajando con datos reales, aprender de entornos profesionales y fortalecer mis bases en ingeniería de datos.
+- C#
+- Python
+- SQL
+- JavaScript
+- HTML
+- CSS
+
+## Frameworks & Libraries
+
+- ASP.NET Core MVC (.NET 8)
+- Dapper
+- Bootstrap 5
+
+## Databases
+
+- SQL Server
+- Microsoft Access
+
+## Tools
+
+- Visual Studio 2022
+- VS Code
+- Git
+- GitHub
+
+## Concepts
+
+- Relational Database Design
+- CRUD Operations
+- Repository Pattern
+- Layered Architecture
+- DTO-based Applications
+- Stored Procedures
+- Data Validation
+- Backend Development
+- Database Modeling
 
 ---
 
-##  Contacto
+#  Featured Projects
 
-- GitHub: https://github.com/wellington3100
-- Linkedin: https://www.linkedin.com/in/w%C3%A9llington-%C3%A1lvarez-varela-318aba252/
-- Discord: well1ngton
+## Human Resources Management System (ASEC)
+
+Enterprise web application developed during my professional internship for managing employees, interns, attendance, incidents, and administrative processes.
+
+### Technologies
+
+- ASP.NET Core MVC
+- C#
+- SQL Server
+- Dapper
+- Bootstrap 5
+- JavaScript
+
+### Features
+
+- Employee & Intern Management
+- Attendance Registration
+- Incident Management
+- Holiday Calendar
+- Administrative Dashboard
+- SQL Server Stored Procedures
+- Repository Pattern
+- PDF Report Generation
+
+> Private repository (institutional project).
 
 ---
 
- Siempre enfocado en aprender, mejorar y desarrollar bases técnicas sólidas en el área de datos y bases de datos.
+## Dry Cleaning Management System
+
+ https://github.com/wellington3100/tintoreria-management-system
+
+Management system developed for a real dry-cleaning business focused on organizing customers, garments, orders, and business operations using a relational database.
+
+### Technologies
+
+- Microsoft Access
+- SQL
+- Git
+- GitHub
+
+### Concepts Applied
+
+- Relational Database Design
+- CRUD Operations
+- One-to-Many Relationships
+- Forms & Subforms
+- Data Persistence
+- Business Workflow Management
+
+---
+
+## Registration Form
+
+ https://github.com/wellington3100/formulario-registro
+
+Responsive web form focused on user data collection and validation.
+
+### Technologies
+
+- HTML
+- CSS
+
+### Concepts
+
+- Forms
+- Responsive Design
+- Basic Validation
+
+---
+
+## Personal Portfolio
+
+ https://github.com/wellington3100/MiPortafolio
+
+Personal website showcasing projects and technical profile.
+
+### Technologies
+
+- HTML
+- CSS
+
+---
+
+#  Career Goals
+
+My goal is to build a career as a **Software Developer** while specializing in **Data Engineering**.
+
+Areas of interest include:
+
+- Data Engineering
+- Database Development
+- SQL Server
+- Backend Development
+- Data Modeling
+- Data Pipelines
+- Python Automation
+- Cloud Data Technologies
+
+---
+
+#  Currently Learning
+
+- Advanced SQL
+- Database Optimization
+- Data Engineering Concepts
+- Python for Data Processing
+- Azure Data Services
+- ETL Processes
+
+---
+
+#  Contact
+
+GitHub:
+https://github.com/wellington3100
+
+LinkedIn:
+https://www.linkedin.com/in/w%C3%A9llington-%C3%A1lvarez-varela-318aba252/
+
+Discord:
+well1ngton
+
+---
+
+ Always learning, improving, and building software with a strong focus on databases, backend development, and data engineering.
